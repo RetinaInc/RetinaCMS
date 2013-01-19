@@ -1,5 +1,5 @@
 RetinaCMS
-=========Sponsored and maintained by www.retina.net.np======
+=========Sponsored and maintained by www.retina.net.np
 
 This is free and open source version of our premium CMS Retina Inc. 
 Some premium features will not be available in this open source version.
