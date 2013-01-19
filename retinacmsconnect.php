@@ -1,5 +1,7 @@
 <?php
 //database connection parameters declaration
+
+// for more www.retina.net.np 
 $dbhost = 'localhost';// change as yours
 $dbname = 'retinacms';
 $dbuser = 'root';// change as yours
