@@ -37,4 +37,9 @@ class Crud extends Controller
 	{
 
 	}
+	
+	function update()
+	{
+	 
+	}
 }
