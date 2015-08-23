@@ -15,3 +15,7 @@ Features:
 - Bookmark Module
 - Comment Module
 - Access Control Level
+
+Update:
+
+We have descontinued this project in favour of building it over Laravel
